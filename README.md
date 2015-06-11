@@ -1,5 +1,5 @@
 # JavaSpellChecker
 
 
-This program uses a hashtable to spell check a given file.
+This program uses a hashtable as a spell checker
 
